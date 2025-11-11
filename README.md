@@ -9,6 +9,8 @@
 
   <img width="458" height="633" alt="image" src="https://github.com/user-attachments/assets/48c4b3d1-11e3-4b64-bc8d-2c95f5382bea" />
 
-
 ## 공유
 - [수업 공유](https://docs.google.com/spreadsheets/d/1m56iodSA9tQzGYz30JoLWELRRM7e1zGa0U3n50gjANM/edit?usp=sharing)
+
+## 프롬프트 사례
+- 최근 웹프로그래밍 기술 동향에서 프로트엔드 분야에서 활용되는 "기술 트렌드" 자료 10페이지 작성해 줘
