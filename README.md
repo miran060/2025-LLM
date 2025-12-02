@@ -181,6 +181,12 @@
 # huggingface.co
 
 ## models 활용
+- https://huggingface.co/에서 라마 모델을 바로 사용해 볼 수 있는 모델과 방법을 알려줘
+- meta-llama/Llama-3.1-8B-Instruct
+  <img width="1242" height="659" alt="image" src="https://github.com/user-attachments/assets/1db575ba-3f49-450e-ac12-d0dfcf91771b" />
+
+## spaces 활용
+- https://huggingface.co/의 spaces에서 실습할 수 있는 공간과 방법을 알려줘
 - meta-llama/Llama-3.1-8B-Instruct
   <img width="1242" height="659" alt="image" src="https://github.com/user-attachments/assets/1db575ba-3f49-450e-ac12-d0dfcf91771b" />
 
