@@ -176,3 +176,14 @@
 - 초보자를 대상으로 하는 'NLP 이해와 코딩 기초' 라는 내용으로 10페이지 슬라이드 자료를 작성해 줘
 - 초보자를 대상으로 하는 'PyTorch로 구현하는 딥러닝 기초' 라는 내용으로 15페이지 슬라이드 자료를 작성해 줘
 
+---
+
+# huggingface.co
+
+## models 활용
+- meta-llama/Llama-3.1-8B-Instruct
+  <img width="1242" height="659" alt="image" src="https://github.com/user-attachments/assets/1db575ba-3f49-450e-ac12-d0dfcf91771b" />
+
+
+
+
