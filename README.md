@@ -123,7 +123,7 @@
 
 # 프롬프트 사례
 - 다양한 어류가 보이는 심해의 환상적인 해저 도시를 사실적으로 그려줘
-- 지구가 보이는 광활한 우주 공간에 우주 도시가 보이고 다양한 모양의 우주선의 이러한 우주를 날아 다니는 황성적인 미래의 우주 도시를 사실적으로 그려줘
+- 지구가 보이는 광활한 우주 공간에 우주 도시가 보이고 다양한 모양의 우주선의 이러한 우주를 날아 다니는 환상적인 미래의 우주 도시를 사실적으로 그려줘
 - 위에서 그린 이미지를 주제로 3000자 정도의 단편 소설을 작성해 줘
 
 ## 캔버스 기능 활용
@@ -185,10 +185,12 @@
 - meta-llama/Llama-3.1-8B-Instruct
   <img width="1242" height="659" alt="image" src="https://github.com/user-attachments/assets/1db575ba-3f49-450e-ac12-d0dfcf91771b" />
 
-## spaces 활용
-- https://huggingface.co/의 spaces에서 실습할 수 있는 공간과 방법을 알려줘
-- meta-llama/Llama-3.1-8B-Instruct
-  <img width="1242" height="659" alt="image" src="https://github.com/user-attachments/assets/1db575ba-3f49-450e-ac12-d0dfcf91771b" />
+## spaces 활용, 이미지 그리기
+- [FLUX.2 [dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.2-dev)
+  - 지구가 보이는 광활한 우주 공간에 우주 도시가 보이고 다양한 모양의 우주선의 이러한 우주를 날아 다니는 환상적인 미래의 우주 도시를 사실적으로 그려줘
+
+- <img width="1003" height="566" alt="image" src="https://github.com/user-attachments/assets/c3f312ef-09b1-4a92-ad92-b15bd4b95c90" />
+
 
 
 
