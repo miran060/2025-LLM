@@ -12,6 +12,7 @@
 
 ## 공유
 - [수업 공유](https://docs.google.com/spreadsheets/d/1m56iodSA9tQzGYz30JoLWELRRM7e1zGa0U3n50gjANM/edit?usp=sharing)
+- 위 구글 시트에 자기주도학습보고서 깃허브저장소주소 입력해 주세요. 12/13(토)까지
 
 ## 프롬프트 사례
 - 최근 웹프로그래밍 기술 동향에서 프로트엔드 분야에서 활용되는 "기술 트렌드" 자료 10페이지 작성해 줘
